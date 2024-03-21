@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamnitingrover
 - 👀 I’m interested in UX, MMO and SP games
-- 🌱 I’m currently learning Java, Dart, Flutter and MongoDB.
+- 🌱 I’m currently learning Java, Dart, Flutter and SpringBoot.
 - 💞️ I’m looking to collaborate on Discord Bot, UI, and .....
 - 📫 How to reach me ......
 
